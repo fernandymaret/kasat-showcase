@@ -1,5 +1,8 @@
 # KASAT
 ### Kawal Pelaksanaan Standar Kinerja Kantor
+[![Status](https://img.shields.io/badge/Status-Production-success)]()
+[![Platform](https://img.shields.io/badge/Platform-Web-blue)]()
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)]()
 
 A web-based monitoring, evaluation, and supervisory feedback platform designed to support organizational performance oversight, compliance monitoring, reporting, and evidence verification.
 
