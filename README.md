@@ -4,33 +4,29 @@
 [![Platform](https://img.shields.io/badge/Platform-Web-blue)]()
 [![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)]()
 
-A web-based monitoring, evaluation, and supervisory feedback platform designed to support organizational performance oversight, compliance monitoring, reporting, and evidence verification.
+> Monitoring, Evaluation, Reporting, and Collaborative Supervision Platform
 
----
+KASAT (Kawal Pelaksanaan Standar Kinerja Kantor) is a web-based monitoring and supervision platform developed to support internal oversight, performance evaluation, reporting, supporting document management, and collaborative communication between supervisors and organizational units.
 
-## Overview
+The platform enables leadership, inspectors, and supervisory personnel to monitor organizational performance, review submitted reports, verify supporting evidence, and communicate directly with organizational units through contextual discussions attached to each report and monitoring activity.
 
-KASAT (Kawal Pelaksanaan Standar Kinerja Kantor) is an integrated digital supervision platform developed to modernize internal monitoring and evaluation processes.
-
-The platform enables leadership, inspectors, and supervisory personnel to conduct online performance monitoring, evaluate compliance, verify supporting documentation, review evidence submissions, provide recommendations, and monitor follow-up actions through a centralized management system.
-
-By combining monitoring, reporting, document verification, and supervisory communication, KASAT transforms conventional supervision into a transparent, measurable, accountable, and data-driven workflow.
+By centralizing supervision, reporting, documentation, and communication into a single platform, KASAT improves transparency, accountability, efficiency, and organizational performance monitoring.
 
 ---
 
 ## Background
 
-Effective organizational supervision requires continuous monitoring of operational activities, administrative compliance, performance indicators, and supporting documentation.
+Effective supervision requires continuous monitoring of administrative activities, operational performance, reporting obligations, and supporting documentation across multiple organizational units.
 
-Traditional supervision methods often rely on fragmented reporting mechanisms, manual verification processes, and physical documentation, resulting in:
+Conventional supervision processes often depend on manual reporting, fragmented communication channels, physical document verification, and decentralized record keeping, resulting in:
 
-- Inefficient supervision workflows
-- Delayed reporting and evaluation
+- Delayed monitoring activities
 - Difficult document verification
 - Limited visibility of organizational performance
+- Inefficient communication between supervisors and organizational units
 - Increased administrative workload
 
-KASAT was developed to address these challenges through an integrated digital monitoring ecosystem.
+KASAT was developed to address these challenges through a centralized digital supervision ecosystem that supports monitoring, reporting, verification, and collaborative communication.
 
 ---
 
@@ -38,325 +34,310 @@ KASAT was developed to address these challenges through an integrated digital mo
 
 ### Digital Transformation
 
-Digitize supervision and evaluation activities through centralized workflows.
+Modernize organizational supervision and evaluation processes through digital workflows.
 
 ### Performance Monitoring
 
-Provide measurable performance oversight across organizational units.
-
-### Compliance Assurance
-
-Support verification of compliance with internal standards and operational procedures.
+Provide centralized oversight of organizational performance and compliance activities.
 
 ### Accountability
 
-Enable evidence-based supervision and transparent reporting.
+Support evidence-based monitoring through structured reporting and document verification.
+
+### Transparency
+
+Improve visibility of supervision activities and monitoring outcomes.
+
+### Collaboration
+
+Facilitate direct communication between supervisors and organizational units within the context of reports and monitoring records.
 
 ### Efficiency
 
-Reduce administrative burden through centralized document and report management.
-
-### Continuous Improvement
-
-Support corrective actions and follow-up monitoring processes.
+Reduce administrative burden through integrated reporting and documentation management.
 
 ---
 
-# Core Features
+## Core Features
 
-## Monitoring Dashboard
+### Monitoring Dashboard
 
-Provides a centralized overview of organizational performance and monitoring activities.
+Provides a centralized overview of monitoring activities and organizational performance.
 
-Features:
+Features include:
 
 - Performance overview
 - Monitoring statistics
-- Compliance indicators
-- Evaluation status
-- Monthly monitoring summaries
+- Organizational monitoring summaries
+- Reporting status overview
+- Compliance tracking
 
 ---
 
-## Digital Supervision System
+### Digital Monitoring System
 
-Conduct supervision and evaluation activities through a structured online workflow.
+Supports structured supervision and monitoring activities across organizational units.
 
-Features:
+Features include:
 
-- Evaluation forms
-- Compliance assessments
-- Monthly inspections
 - Monitoring records
-- Supervisory reviews
+- Monthly supervision activities
+- Performance evaluations
+- Compliance monitoring
+- Monitoring documentation
 
 ---
 
-## Supervisory Response & Feedback System
+### Reporting Management
 
-A structured communication module that enables inspectors, supervisors, and leadership personnel to provide direct responses to submitted reports, supporting documents, and monitoring results.
+Enables organizational units to submit and manage reports through a centralized system.
 
-Features:
+Features include:
 
-- Inspector responses
-- Supervisory feedback
-- Improvement recommendations
-- Corrective action requests
-- Follow-up instructions
-- Verification notes
-- Response history tracking
-- Two-way supervision workflow
-
-This feature creates an interactive supervision process where organizational units receive documented feedback and recommendations directly from supervisory personnel.
+- Report submission
+- Report management
+- Reporting history
+- Monthly reporting
+- Monitoring reports
 
 ---
 
-## Digital Evidence Repository
+### Collaborative Response System
 
-Centralized storage for supporting documentation and verification materials.
+A built-in communication module that allows supervisors and organizational units to communicate directly within reports and monitoring records.
+
+The feature enables contextual discussions without relying on external communication channels.
+
+Features include:
+
+- Supervisor responses
+- Organizational unit replies
+- Clarification requests
+- Follow-up discussions
+- Contextual communication
+- Discussion history tracking
+- Report-centered collaboration
+
+This feature transforms supervision from a one-way reporting process into a collaborative workflow where supervisors and organizational units can exchange information, discuss findings, and coordinate follow-up actions directly within the system.
+
+---
+
+### Digital Evidence Repository
+
+Centralized storage for supporting documentation and evidence related to monitoring activities.
 
 Supports:
 
-- Document uploads
+- Supporting documents
 - Photo documentation
-- Supporting evidence
+- Verification evidence
 - Administrative records
 - Historical archives
 
 ---
 
-## Reporting System
+### Document Verification
 
-Generate and manage monitoring and supervision reports.
+Facilitates review and verification of submitted evidence and supporting documentation.
 
-Includes:
+Features include:
 
-- Monthly reports
-- Monitoring reports
-- Performance summaries
-- Supervisory findings
-- Follow-up reports
-
----
-
-## Follow-Up Management
-
-Track implementation of recommendations and corrective actions.
-
-Features:
-
-- Recommendation tracking
-- Action monitoring
-- Progress verification
-- Completion status management
+- Evidence review
+- Document validation
+- Supporting document verification
+- Monitoring record verification
 
 ---
 
-## Document Verification
+## Organizational Modules
 
-Verify supporting evidence submitted by organizational units.
+KASAT supports monitoring and supervision activities across multiple organizational divisions.
 
-Supports:
+### Criminal Administration Division
 
-- Document review
-- Evidence validation
-- Closure verification
-- Compliance checking
+Monitoring activities related to criminal case administration, registers, detention records, evidence records, work programs, monthly reports, and supporting documentation.
 
----
+### Civil Administration Division
 
-# Organizational Modules
+Monitoring civil administration activities, financial reporting, case records, journals, and operational documentation.
 
-The platform supports supervision activities across multiple organizational divisions.
+### Legal Affairs Division
 
-## Criminal Administration Division
+Monitoring legal aid services, public satisfaction surveys, complaint management, information services, reporting activities, and supporting documentation.
 
-Monitoring criminal case administration, detention records, evidence records, work programs, monthly reports, and supporting documentation.
+### Human Resources, Organization, and Governance Division
 
-## Civil Administration Division
+Monitoring personnel administration, organizational development, integrity programs, training activities, promotion planning, and governance documentation.
 
-Monitoring civil case administration, financial reports, journals, operational records, and supporting documents.
+### General Affairs and Finance Division
 
-## Legal Affairs Division
+Monitoring correspondence management, financial administration, procurement activities, asset management, operational support services, and facility management.
 
-Monitoring legal aid services, public satisfaction surveys, complaint management, public information services, and reporting activities.
+### Planning, Information Technology, and Reporting Division
 
-## Human Resources Division
-
-Monitoring personnel administration, integrity programs, promotion planning, training activities, and organizational development.
-
-## General Affairs & Finance Division
-
-Monitoring correspondence, financial administration, procurement, asset management, facility maintenance, and operational services.
-
-## Planning, Information Technology & Reporting Division
-
-Monitoring strategic planning, IT infrastructure, server management, website management, budgeting, and performance accountability reports.
+Monitoring strategic planning, information technology management, server administration, website management, budgeting activities, and performance accountability reporting.
 
 ---
 
-# System Workflow
+## Workflow
 
 ```text
-Data Collection
-       │
-       ▼
+Organizational Unit
+        │
+        ▼
 Report Submission
-       │
-       ▼
+        │
+        ▼
 Supporting Evidence Upload
-       │
-       ▼
-Monitoring & Evaluation
-       │
-       ▼
+        │
+        ▼
+Monitoring Review
+        │
+        ▼
 Supervisor Response
-       │
-       ▼
-Recommendations & Instructions
-       │
-       ▼
-Follow-Up Actions
-       │
-       ▼
+        │
+        ▼
+Discussion & Clarification
+        │
+        ▼
+Additional Information Submission
+        │
+        ▼
 Verification
-       │
-       ▼
-Periodic Reporting
+        │
+        ▼
+Reporting & Archive
 ```
 
 ---
 
-# System Architecture
+## System Architecture
 
 ```text
-+------------------------+
-| Leadership & Inspectors|
-+-----------+------------+
-            |
-            ▼
-+------------------------+
-|      KASAT Platform    |
-+-----------+------------+
-            |
-            ▼
-+------------------------+
-| Monitoring & Evaluation|
-+-----------+------------+
-            |
-    +-------+-------+
-    |               |
-    ▼               ▼
++----------------------------------+
+| Leadership & Supervisory Officers|
++----------------+-----------------+
+                 |
+                 ▼
++----------------------------------+
+|              KASAT               |
++----------------+-----------------+
+                 |
+     +-----------+-----------+
+     |                       |
+     ▼                       ▼
 
-Evidence      Supervisory
-Repository    Response System
+Monitoring System     Reporting System
 
-            |
-            ▼
+     |                       |
+     +-----------+-----------+
+                 |
+                 ▼
 
-Performance Reporting
+Collaborative Response System
+
+                 |
+                 ▼
+
+Digital Evidence Repository
+
+                 |
+                 ▼
+
+Database
 ```
 
 ---
 
-# Technology Stack
+## Key Benefits
 
-## Backend
-
-- Node.js
-- Express.js
-- REST API
-
-## Database
-
-- MySQL
-
-## Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-
-## Security
-
-- HTTPS
-- Session Authentication
-- Role-Based Access Control
-
-## Infrastructure
-
-- Linux Server
-- Nginx
-- MySQL Server
-
----
-
-# Key Benefits
-
-- Digital supervision workflow
-- Centralized monitoring platform
-- Interactive supervisory communication
+- Centralized supervision workflow
+- Digital monitoring process
+- Structured reporting management
+- Collaborative communication
 - Evidence-based evaluation
 - Improved accountability
 - Better transparency
 - Faster verification process
-- Reduced administrative burden
+- Reduced administrative workload
 - Improved organizational oversight
 
 ---
 
-# Project Highlights
+## Project Highlights
 
-### Digital Transformation
+### Monitoring & Evaluation
 
-Modernizing organizational supervision through digital workflows.
+Supports systematic monitoring and evaluation activities across multiple organizational units.
 
-### Evidence-Based Monitoring
+### Collaborative Supervision
 
-Ensuring monitoring activities are supported by verifiable documentation.
+Enables direct communication between supervisors and organizational units through report-centered discussions and contextual responses.
 
-### Interactive Supervision
+### Evidence-Based Oversight
 
-Enabling direct communication between supervisors and organizational units through structured responses and recommendations.
+Ensures supervision activities are supported by verifiable documentation and supporting evidence.
 
 ### Centralized Management
 
-Providing a unified platform for monitoring, reporting, verification, and follow-up management.
+Provides a single platform for monitoring, reporting, verification, and communication.
 
-### Organizational Transparency
+### Digital Transformation
 
-Improving visibility of performance indicators and compliance status.
+Modernizes conventional supervision processes through integrated digital workflows.
 
 ---
 
-# Repository Contents
+## Repository Contents
 
 This repository contains:
 
 - Project overview
-- Functional documentation
-- Architecture diagrams
+- Feature documentation
 - Workflow illustrations
-- Feature descriptions
+- Architecture diagrams
 - User interface screenshots
 - Portfolio presentation materials
 
-The production source code is not included.
+The original production source code is not included.
 
 ---
 
-# Project Status
+## Screenshots
+
+### Dashboard
+
+![Dashboard](assets/dashboard.png)
+
+### Monitoring Module
+
+![Monitoring](assets/monitoring.png)
+
+### Collaborative Response System
+
+![Response System](assets/response-system.png)
+
+### Evidence Repository
+
+![Evidence Repository](assets/evidence-management.png)
+
+### Organizational Modules
+
+![Organizational Modules](assets/organizational-modules.png)
+
+### Workflow
+
+![Workflow](assets/workflow.png)
+
+### System Architecture
+
+![Architecture](assets/architecture.png)
+
+---
+
+## Project Status
 
 Production System
-
----
-
-# Notice
-
-This repository is published exclusively for portfolio and professional presentation purposes.
-
-The original source code, database structure, deployment configuration, credentials, and proprietary implementation details are not publicly available.
 
 ---
 
@@ -366,14 +347,14 @@ This repository is maintained by Fernandy Maret Astriawan and published under th
 
 The repository is intended exclusively for portfolio presentation, project documentation, and professional evaluation purposes.
 
-Source code, production infrastructure, deployment configurations, sensitive data, and proprietary implementation details are not publicly available.
-
-© 2026 Fernandy Maret Astriawan — Developed under the MarchTech brand.
+Source code, production infrastructure, deployment configurations, sensitive data, proprietary implementation details, and operational data are not publicly available.
 
 ---
 
-# License
+## License
 
 All Rights Reserved.
 
 See the LICENSE file for details.
+
+© 2026 Fernandy Maret Astriawan — Developed under the MarchTech brand.
