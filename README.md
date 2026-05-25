@@ -332,12 +332,14 @@ Implementation of KASAT provides:
 
 ---
 
-# License
+## Ownership & Notice
 
-Copyright © 2026 Fernandy Maret Astriawan
+This repository is maintained by Fernandy Maret Astriawan and published under the MarchTech brand.
 
-All Rights Reserved.
+The repository is intended exclusively for portfolio presentation, project documentation, and professional evaluation purposes.
 
-This repository is published exclusively for portfolio and project showcase purposes.
+Source code, production infrastructure, deployment configurations, sensitive data, and proprietary implementation details are not publicly available.
 
-Source code and production data are not included.
+For professional inquiries, collaborations, or project discussions, please contact the repository owner.
+
+© 2026 Fernandy Maret Astriawan — Developed under the MarchTech brand.
