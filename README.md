@@ -245,7 +245,9 @@ The original production source code is not included.
 
 ### Collaborative Response System
 
-![Response System](assets/response-system.png)
+![Response System](assets/response-system1.png)
+![Response System](assets/response-system2.png)
+![Response System](assets/response-system3.png)
 
 ### Evidence Repository
 
