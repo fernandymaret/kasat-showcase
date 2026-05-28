@@ -227,7 +227,7 @@ Monitoring strategic planning, budgeting, server management, information technol
 
 # Workflow
 
-![Workflow](assets/workflow.png)
+![Workflow](docs/workflow.png)
 
 The workflow begins when an organizational unit submits monitoring reports and supporting evidence through the KASAT platform.
 
@@ -239,7 +239,7 @@ All monitoring records, supporting documents, discussions, and reporting histori
 
 # System Architecture
 
-![Architecture](assets/architecture.png)
+![Architecture](docs/architecture.png)
 
 KASAT operates as a centralized supervision platform connecting leadership personnel, supervisory officers, administrators, and organizational units through integrated monitoring, reporting, and collaborative response modules.
 
@@ -349,49 +349,49 @@ The original production source code is not publicly available.
 
 ## Login Interface
 
-![Login](assets/login.png)
+![Login](docs/screenshots/login.png)
 
 ---
 
 ## Monitoring Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](docs/screenshots/dashboard.png)
 
 ---
 
 ## Collaborative Response System — Discussion Overview
 
-![Response Overview](assets/response-system1.png)
+![Response Overview](docs/screenshots/response-system1.png)
 
 ---
 
 ## Collaborative Response System — Contextual Discussion
 
-![Response Discussion](assets/response-system2.png)
+![Response Discussion](docs/screenshots/response-system2.png)
 
 ---
 
 ## Collaborative Response System — Response Editor
 
-![Response Editor](assets/response-system3.png)
+![Response Editor](docs/screenshots/response-system3.png)
 
 ---
 
 ## Monitoring Module
 
-![Monitoring](assets/monitoring.png)
+![Monitoring](docs/screenshots/monitoring.png)
 
 ---
 
 ## Digital Evidence Repository
 
-![Evidence Repository](assets/evidence-management.png)
+![Evidence Repository](docs/screenshots/evidence-management.png)
 
 ---
 
 ## Organizational Modules
 
-![Organizational Modules](assets/organizational-modules.png)
+![Organizational Modules](docs/screenshots/organizational-modules.png)
 
 ---
 
